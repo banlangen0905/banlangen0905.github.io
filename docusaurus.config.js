@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '朱静丽干活的证明',
+  title: '朱静丽干活的证明 板蓝根',
   tagline: 'Banlangen',
   favicon: 'img/favicon.ico',
 
